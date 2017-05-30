@@ -1,0 +1,6 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\TrainingHallEquipment\obj\Debug\TrainingHallEquipment.csprojResolveAssemblyReference.cache
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\TrainingHallEquipment\obj\Debug\TrainingHallEquipment.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\TrainingHallEquipment\obj\Debug\TrainingHallEquipment.pdb

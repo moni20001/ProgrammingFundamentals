@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\SMSTyping\bin\Debug\SMSTyping.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\SMSTyping\bin\Debug\SMSTyping.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\SMSTyping\bin\Debug\SMSTyping.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\SMSTyping\obj\Debug\SMSTyping.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\SMSTyping\obj\Debug\SMSTyping.pdb

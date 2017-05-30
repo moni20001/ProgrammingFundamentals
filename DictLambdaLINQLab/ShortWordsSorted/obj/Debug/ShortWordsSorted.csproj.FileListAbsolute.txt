@@ -1,0 +1,6 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\ShortWordsSorted\bin\Debug\ShortWordsSorted.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\ShortWordsSorted\bin\Debug\ShortWordsSorted.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\ShortWordsSorted\bin\Debug\ShortWordsSorted.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\ShortWordsSorted\obj\Debug\ShortWordsSorted.csprojResolveAssemblyReference.cache
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\ShortWordsSorted\obj\Debug\ShortWordsSorted.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\ShortWordsSorted\obj\Debug\ShortWordsSorted.pdb

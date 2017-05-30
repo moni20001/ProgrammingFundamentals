@@ -1,0 +1,6 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\Lab\AddTwoNums\bin\Debug\AddTwoNums.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\Lab\AddTwoNums\bin\Debug\AddTwoNums.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\Lab\AddTwoNums\bin\Debug\AddTwoNums.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\Lab\AddTwoNums\obj\Debug\AddTwoNums.csprojResolveAssemblyReference.cache
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\Lab\AddTwoNums\obj\Debug\AddTwoNums.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\Lab\AddTwoNums\obj\Debug\AddTwoNums.pdb

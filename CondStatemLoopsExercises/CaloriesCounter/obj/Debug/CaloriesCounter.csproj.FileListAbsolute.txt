@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\CaloriesCounter\bin\Debug\CaloriesCounter.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\CaloriesCounter\bin\Debug\CaloriesCounter.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\CaloriesCounter\bin\Debug\CaloriesCounter.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\CaloriesCounter\obj\Debug\CaloriesCounter.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\CaloriesCounter\obj\Debug\CaloriesCounter.pdb

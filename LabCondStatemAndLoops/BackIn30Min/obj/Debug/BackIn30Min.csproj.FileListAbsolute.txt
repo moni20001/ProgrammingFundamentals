@@ -1,0 +1,6 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\BackIn30Min\bin\Debug\BackIn30Min.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\BackIn30Min\bin\Debug\BackIn30Min.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\BackIn30Min\bin\Debug\BackIn30Min.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\BackIn30Min\obj\Debug\BackIn30Min.csprojResolveAssemblyReference.cache
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\BackIn30Min\obj\Debug\BackIn30Min.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\BackIn30Min\obj\Debug\BackIn30Min.pdb

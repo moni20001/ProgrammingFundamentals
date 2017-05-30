@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\WordInPlural\bin\Debug\WordInPlural.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\WordInPlural\bin\Debug\WordInPlural.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\WordInPlural\bin\Debug\WordInPlural.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\WordInPlural\obj\Debug\WordInPlural.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\WordInPlural\obj\Debug\WordInPlural.pdb

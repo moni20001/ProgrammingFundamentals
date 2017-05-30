@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\OddNumber\bin\Debug\OddNumber.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\OddNumber\bin\Debug\OddNumber.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\OddNumber\bin\Debug\OddNumber.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\OddNumber\obj\Debug\OddNumber.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\OddNumber\obj\Debug\OddNumber.pdb

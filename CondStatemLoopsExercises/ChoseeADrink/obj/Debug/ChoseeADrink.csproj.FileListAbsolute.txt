@@ -1,0 +1,6 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\ChoseeADrink\bin\Debug\ChoseeADrink.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\ChoseeADrink\bin\Debug\ChoseeADrink.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\ChoseeADrink\bin\Debug\ChoseeADrink.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\ChoseeADrink\obj\Debug\ChoseeADrink.csprojResolveAssemblyReference.cache
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\ChoseeADrink\obj\Debug\ChoseeADrink.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\ChoseeADrink\obj\Debug\ChoseeADrink.pdb

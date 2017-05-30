@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\BPMCounter\bin\Debug\BPMCounter.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\BPMCounter\bin\Debug\BPMCounter.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\BPMCounter\bin\Debug\BPMCounter.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\BPMCounter\obj\Debug\BPMCounter.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\BPMCounter\obj\Debug\BPMCounter.pdb

@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\IntroBasicSyntax-Exercises\5. CharacterStats\bin\Debug\_5.CharacterStats.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\IntroBasicSyntax-Exercises\5. CharacterStats\bin\Debug\_5.CharacterStats.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\IntroBasicSyntax-Exercises\5. CharacterStats\bin\Debug\_5.CharacterStats.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\IntroBasicSyntax-Exercises\5. CharacterStats\obj\Debug\_5.CharacterStats.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\IntroBasicSyntax-Exercises\5. CharacterStats\obj\Debug\_5.CharacterStats.pdb

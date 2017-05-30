@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\NeighbourWars\bin\Debug\NeighbourWars.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\NeighbourWars\bin\Debug\NeighbourWars.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\NeighbourWars\bin\Debug\NeighbourWars.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\NeighbourWars\obj\Debug\NeighbourWars.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\NeighbourWars\obj\Debug\NeighbourWars.pdb

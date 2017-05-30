@@ -1,0 +1,6 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\MagicLetter\bin\Debug\MagicLetter.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\MagicLetter\bin\Debug\MagicLetter.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\MagicLetter\bin\Debug\MagicLetter.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\MagicLetter\obj\Debug\MagicLetter.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\MagicLetter\obj\Debug\MagicLetter.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\ChoseeADrink\MagicLetter\obj\Debug\MagicLetter.csprojResolveAssemblyReference.cache

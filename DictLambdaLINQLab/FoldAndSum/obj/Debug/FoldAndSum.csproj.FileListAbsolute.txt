@@ -1,0 +1,6 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\FoldAndSum\bin\Debug\FoldAndSum.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\FoldAndSum\bin\Debug\FoldAndSum.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\FoldAndSum\bin\Debug\FoldAndSum.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\FoldAndSum\obj\Debug\FoldAndSum.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\FoldAndSum\obj\Debug\FoldAndSum.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\FoldAndSum\obj\Debug\FoldAndSum.csprojResolveAssemblyReference.cache

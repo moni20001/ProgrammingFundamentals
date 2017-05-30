@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\PhotoGallery\bin\Debug\PhotoGallery.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\PhotoGallery\bin\Debug\PhotoGallery.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\PhotoGallery\bin\Debug\PhotoGallery.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\PhotoGallery\obj\Debug\PhotoGallery.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\PhotoGallery\obj\Debug\PhotoGallery.pdb

@@ -1,0 +1,6 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\VaporStore\bin\Debug\VaporStore.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\VaporStore\bin\Debug\VaporStore.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\VaporStore\bin\Debug\VaporStore.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\VaporStore\obj\Debug\VaporStore.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\VaporStore\obj\Debug\VaporStore.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CSharpBasicsMoreExercises\VaporStore\obj\Debug\VaporStore.csprojResolveAssemblyReference.cache

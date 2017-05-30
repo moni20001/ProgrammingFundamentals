@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\SumOfOddNumbs\bin\Debug\SumOfOddNumbs.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\SumOfOddNumbs\bin\Debug\SumOfOddNumbs.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\SumOfOddNumbs\bin\Debug\SumOfOddNumbs.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\SumOfOddNumbs\obj\Debug\SumOfOddNumbs.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\SumOfOddNumbs\obj\Debug\SumOfOddNumbs.pdb

@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\SumMinMaxAverage\bin\Debug\SumMinMaxAverage.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\SumMinMaxAverage\bin\Debug\SumMinMaxAverage.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\SumMinMaxAverage\bin\Debug\SumMinMaxAverage.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\SumMinMaxAverage\obj\Debug\SumMinMaxAverage.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\SumMinMaxAverage\obj\Debug\SumMinMaxAverage.pdb

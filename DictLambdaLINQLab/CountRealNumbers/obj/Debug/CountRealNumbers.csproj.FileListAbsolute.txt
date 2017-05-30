@@ -1,0 +1,6 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\CountRealNumbers\bin\Debug\CountRealNumbers.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\CountRealNumbers\bin\Debug\CountRealNumbers.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\CountRealNumbers\bin\Debug\CountRealNumbers.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\CountRealNumbers\obj\Debug\CountRealNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\CountRealNumbers\obj\Debug\CountRealNumbers.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\CondStatemLoopsExercises\DictLambdaLINQLab\CountRealNumbers\obj\Debug\CountRealNumbers.pdb

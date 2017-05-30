@@ -1,0 +1,1 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\LabCondStatemAndLoops\bin\Debug\LabCondStatemAndLoops.exe.config

@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\IntroBasicSyntax-Exercises\4. BeverageLabels\bin\Debug\_4.BeverageLabels.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\IntroBasicSyntax-Exercises\4. BeverageLabels\bin\Debug\_4.BeverageLabels.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\IntroBasicSyntax-Exercises\4. BeverageLabels\bin\Debug\_4.BeverageLabels.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\IntroBasicSyntax-Exercises\4. BeverageLabels\obj\Debug\_4.BeverageLabels.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\IntroBasicSyntax-Exercises\4. BeverageLabels\obj\Debug\_4.BeverageLabels.pdb

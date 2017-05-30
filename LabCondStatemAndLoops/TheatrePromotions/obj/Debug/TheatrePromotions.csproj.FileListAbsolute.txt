@@ -1,0 +1,6 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\TheatrePromotions\bin\Debug\TheatrePromotions.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\TheatrePromotions\bin\Debug\TheatrePromotions.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\TheatrePromotions\bin\Debug\TheatrePromotions.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\TheatrePromotions\obj\Debug\TheatrePromotions.csprojResolveAssemblyReference.cache
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\TheatrePromotions\obj\Debug\TheatrePromotions.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\C#IntroAndBasic Syntax\LabCondStatemAndLoops\TheatrePromotions\obj\Debug\TheatrePromotions.pdb
