@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

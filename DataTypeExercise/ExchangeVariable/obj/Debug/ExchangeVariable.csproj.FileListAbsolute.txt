@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\ExchangeVariable\bin\Debug\ExchangeVariable.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\ExchangeVariable\bin\Debug\ExchangeVariable.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\ExchangeVariable\bin\Debug\ExchangeVariable.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\ExchangeVariable\obj\Debug\ExchangeVariable.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\ExchangeVariable\obj\Debug\ExchangeVariable.pdb
