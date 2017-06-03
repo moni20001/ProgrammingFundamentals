@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\FastPrimeCheckerRefactor\bin\Debug\FastPrimeCheckerRefactor.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\FastPrimeCheckerRefactor\bin\Debug\FastPrimeCheckerRefactor.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\FastPrimeCheckerRefactor\bin\Debug\FastPrimeCheckerRefactor.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\FastPrimeCheckerRefactor\obj\Debug\FastPrimeCheckerRefactor.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\FastPrimeCheckerRefactor\obj\Debug\FastPrimeCheckerRefactor.pdb

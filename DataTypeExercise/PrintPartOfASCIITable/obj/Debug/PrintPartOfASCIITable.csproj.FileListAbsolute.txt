@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\PrintPartOfASCIITable\bin\Debug\PrintPartOfASCIITable.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\PrintPartOfASCIITable\bin\Debug\PrintPartOfASCIITable.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\PrintPartOfASCIITable\bin\Debug\PrintPartOfASCIITable.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\PrintPartOfASCIITable\obj\Debug\PrintPartOfASCIITable.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\PrintPartOfASCIITable\obj\Debug\PrintPartOfASCIITable.pdb

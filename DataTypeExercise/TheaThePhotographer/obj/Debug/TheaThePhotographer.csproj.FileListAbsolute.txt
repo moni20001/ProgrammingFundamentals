@@ -1,0 +1,6 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\TheaThePhotographer\bin\Debug\TheaThePhotographer.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\TheaThePhotographer\bin\Debug\TheaThePhotographer.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\TheaThePhotographer\bin\Debug\TheaThePhotographer.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\TheaThePhotographer\obj\Debug\TheaThePhotographer.csprojResolveAssemblyReference.cache
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\TheaThePhotographer\obj\Debug\TheaThePhotographer.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\TheaThePhotographer\obj\Debug\TheaThePhotographer.pdb

@@ -1,0 +1,6 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\RectangleProperties\bin\Debug\RectangleProperties.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\RectangleProperties\bin\Debug\RectangleProperties.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\RectangleProperties\bin\Debug\RectangleProperties.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\RectangleProperties\obj\Debug\RectangleProperties.csprojResolveAssemblyReference.cache
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\RectangleProperties\obj\Debug\RectangleProperties.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypeExercise\RectangleProperties\obj\Debug\RectangleProperties.pdb
