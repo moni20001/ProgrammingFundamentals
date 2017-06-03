@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\BoatSimulator\bin\Debug\BoatSimulator.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\BoatSimulator\bin\Debug\BoatSimulator.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\BoatSimulator\bin\Debug\BoatSimulator.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\BoatSimulator\obj\Debug\BoatSimulator.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\BoatSimulator\obj\Debug\BoatSimulator.pdb

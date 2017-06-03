@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\TouristInformation\bin\Debug\TouristInformation.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\TouristInformation\bin\Debug\TouristInformation.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\TouristInformation\bin\Debug\TouristInformation.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\TouristInformation\obj\Debug\TouristInformation.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\TouristInformation\obj\Debug\TouristInformation.pdb

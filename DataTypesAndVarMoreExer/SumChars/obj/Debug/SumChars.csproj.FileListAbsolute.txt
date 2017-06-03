@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\SumChars\bin\Debug\SumChars.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\SumChars\bin\Debug\SumChars.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\SumChars\bin\Debug\SumChars.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\SumChars\obj\Debug\SumChars.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\SumChars\obj\Debug\SumChars.pdb

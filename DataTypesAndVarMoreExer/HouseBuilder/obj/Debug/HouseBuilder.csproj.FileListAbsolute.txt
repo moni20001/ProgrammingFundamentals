@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\HouseBuilder\bin\Debug\HouseBuilder.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\HouseBuilder\bin\Debug\HouseBuilder.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\HouseBuilder\bin\Debug\HouseBuilder.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\HouseBuilder\obj\Debug\HouseBuilder.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\HouseBuilder\obj\Debug\HouseBuilder.pdb

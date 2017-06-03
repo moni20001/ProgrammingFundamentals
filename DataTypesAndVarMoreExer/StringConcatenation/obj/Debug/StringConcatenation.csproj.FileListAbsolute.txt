@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\StringConcatenation\bin\Debug\StringConcatenation.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\StringConcatenation\bin\Debug\StringConcatenation.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\StringConcatenation\bin\Debug\StringConcatenation.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\StringConcatenation\obj\Debug\StringConcatenation.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DataTypesAndVarMoreExer\StringConcatenation\obj\Debug\StringConcatenation.pdb
