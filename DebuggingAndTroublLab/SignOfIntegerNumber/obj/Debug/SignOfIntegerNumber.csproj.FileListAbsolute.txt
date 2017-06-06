@@ -1,0 +1,6 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\SignOfIntegerNumber\bin\Debug\SignOfIntegerNumber.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\SignOfIntegerNumber\bin\Debug\SignOfIntegerNumber.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\SignOfIntegerNumber\bin\Debug\SignOfIntegerNumber.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\SignOfIntegerNumber\obj\Debug\SignOfIntegerNumber.csprojResolveAssemblyReference.cache
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\SignOfIntegerNumber\obj\Debug\SignOfIntegerNumber.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\SignOfIntegerNumber\obj\Debug\SignOfIntegerNumber.pdb

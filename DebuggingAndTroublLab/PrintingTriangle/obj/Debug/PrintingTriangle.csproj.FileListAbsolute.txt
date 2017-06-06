@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\PrintingTriangle\bin\Debug\PrintingTriangle.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\PrintingTriangle\bin\Debug\PrintingTriangle.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\PrintingTriangle\bin\Debug\PrintingTriangle.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\PrintingTriangle\obj\Debug\PrintingTriangle.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\PrintingTriangle\obj\Debug\PrintingTriangle.pdb

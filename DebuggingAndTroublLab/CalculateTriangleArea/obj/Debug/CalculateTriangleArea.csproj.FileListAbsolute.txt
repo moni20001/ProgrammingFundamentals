@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.pdb

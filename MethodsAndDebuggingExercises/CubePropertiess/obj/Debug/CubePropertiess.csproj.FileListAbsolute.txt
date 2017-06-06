@@ -1,0 +1,6 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\MethodsAndDebuggingExercises\CubePropertiess\bin\Debug\CubePropertiess.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\MethodsAndDebuggingExercises\CubePropertiess\bin\Debug\CubePropertiess.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\MethodsAndDebuggingExercises\CubePropertiess\bin\Debug\CubePropertiess.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\MethodsAndDebuggingExercises\CubePropertiess\obj\Debug\CubePropertiess.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\MethodsAndDebuggingExercises\CubePropertiess\obj\Debug\CubePropertiess.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\MethodsAndDebuggingExercises\CubePropertiess\obj\Debug\CubePropertiess.csprojResolveAssemblyReference.cache

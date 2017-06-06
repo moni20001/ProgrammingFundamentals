@@ -1,0 +1,6 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\MethodsAndDebuggingExercises\HelloName\bin\Debug\HelloName.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\MethodsAndDebuggingExercises\HelloName\bin\Debug\HelloName.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\MethodsAndDebuggingExercises\HelloName\bin\Debug\HelloName.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\MethodsAndDebuggingExercises\HelloName\obj\Debug\HelloName.csprojResolveAssemblyReference.cache
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\MethodsAndDebuggingExercises\HelloName\obj\Debug\HelloName.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\MethodsAndDebuggingExercises\HelloName\obj\Debug\HelloName.pdb

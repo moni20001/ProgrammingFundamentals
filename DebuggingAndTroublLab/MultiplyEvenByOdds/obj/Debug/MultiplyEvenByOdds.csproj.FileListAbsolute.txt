@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\MultiplyEvenByOdds\bin\Debug\MultiplyEvenByOdds.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\MultiplyEvenByOdds\bin\Debug\MultiplyEvenByOdds.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\MultiplyEvenByOdds\bin\Debug\MultiplyEvenByOdds.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\MultiplyEvenByOdds\obj\Debug\MultiplyEvenByOdds.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\MultiplyEvenByOdds\obj\Debug\MultiplyEvenByOdds.pdb

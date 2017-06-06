@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\MethodsAndDebuggingExercises\CenterPoint\bin\Debug\CenterPoint.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\MethodsAndDebuggingExercises\CenterPoint\bin\Debug\CenterPoint.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\MethodsAndDebuggingExercises\CenterPoint\bin\Debug\CenterPoint.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\MethodsAndDebuggingExercises\CenterPoint\obj\Debug\CenterPoint.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\MethodsAndDebuggingExercises\CenterPoint\obj\Debug\CenterPoint.pdb

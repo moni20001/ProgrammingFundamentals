@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\MethodsAndDebuggingExercises\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\MethodsAndDebuggingExercises\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\MethodsAndDebuggingExercises\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\MethodsAndDebuggingExercises\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\MethodsAndDebuggingExercises\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.pdb

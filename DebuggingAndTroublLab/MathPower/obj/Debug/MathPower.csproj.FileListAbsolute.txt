@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\MathPower\bin\Debug\MathPower.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\MathPower\bin\Debug\MathPower.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\MathPower\bin\Debug\MathPower.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\MathPower\obj\Debug\MathPower.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\DebuggingAndTroublLab\MathPower\obj\Debug\MathPower.pdb
