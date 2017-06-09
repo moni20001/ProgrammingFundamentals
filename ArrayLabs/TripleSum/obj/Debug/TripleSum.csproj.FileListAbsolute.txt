@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArrayLabs\TripleSum\bin\Debug\TripleSum.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArrayLabs\TripleSum\bin\Debug\TripleSum.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArrayLabs\TripleSum\bin\Debug\TripleSum.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArrayLabs\TripleSum\obj\Debug\TripleSum.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArrayLabs\TripleSum\obj\Debug\TripleSum.pdb
