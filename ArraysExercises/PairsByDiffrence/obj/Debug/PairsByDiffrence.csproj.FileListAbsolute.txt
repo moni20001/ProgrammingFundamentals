@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysExercises\PairsByDiffrence\bin\Debug\PairsByDiffrence.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysExercises\PairsByDiffrence\bin\Debug\PairsByDiffrence.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysExercises\PairsByDiffrence\bin\Debug\PairsByDiffrence.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysExercises\PairsByDiffrence\obj\Debug\PairsByDiffrence.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysExercises\PairsByDiffrence\obj\Debug\PairsByDiffrence.pdb
