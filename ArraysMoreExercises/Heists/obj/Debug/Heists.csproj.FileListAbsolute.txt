@@ -1,0 +1,6 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\Heists\bin\Debug\Heists.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\Heists\bin\Debug\Heists.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\Heists\bin\Debug\Heists.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\Heists\obj\Debug\Heists.csprojResolveAssemblyReference.cache
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\Heists\obj\Debug\Heists.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\Heists\obj\Debug\Heists.pdb

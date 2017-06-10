@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\ManipulateArray\bin\Debug\ManipulateArray.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\ManipulateArray\bin\Debug\ManipulateArray.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\ManipulateArray\bin\Debug\ManipulateArray.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\ManipulateArray\obj\Debug\ManipulateArray.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\ManipulateArray\obj\Debug\ManipulateArray.pdb

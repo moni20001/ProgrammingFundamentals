@@ -1,0 +1,6 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\GrabAndGo\bin\Debug\GrabAndGo.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\GrabAndGo\bin\Debug\GrabAndGo.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\GrabAndGo\bin\Debug\GrabAndGo.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\GrabAndGo\obj\Debug\GrabAndGo.csprojResolveAssemblyReference.cache
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\GrabAndGo\obj\Debug\GrabAndGo.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\GrabAndGo\obj\Debug\GrabAndGo.pdb

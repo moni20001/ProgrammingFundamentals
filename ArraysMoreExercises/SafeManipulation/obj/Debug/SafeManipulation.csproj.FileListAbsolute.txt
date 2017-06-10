@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\SafeManipulation\bin\Debug\SafeManipulation.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\SafeManipulation\bin\Debug\SafeManipulation.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\SafeManipulation\bin\Debug\SafeManipulation.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\SafeManipulation\obj\Debug\SafeManipulation.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\SafeManipulation\obj\Debug\SafeManipulation.pdb

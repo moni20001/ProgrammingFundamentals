@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\InventoryMatcher\bin\Debug\InventoryMatcher.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\InventoryMatcher\bin\Debug\InventoryMatcher.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\InventoryMatcher\bin\Debug\InventoryMatcher.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\InventoryMatcher\obj\Debug\InventoryMatcher.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\InventoryMatcher\obj\Debug\InventoryMatcher.pdb

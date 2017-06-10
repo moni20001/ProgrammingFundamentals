@@ -1,0 +1,5 @@
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\PizzaIngredients\bin\Debug\PizzaIngredients.exe.config
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\PizzaIngredients\bin\Debug\PizzaIngredients.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\PizzaIngredients\bin\Debug\PizzaIngredients.pdb
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\PizzaIngredients\obj\Debug\PizzaIngredients.exe
+C:\Users\Moni\Documents\Visual Studio 2015\Projects\ProgrammingFund\ArraysMoreExercises\PizzaIngredients\obj\Debug\PizzaIngredients.pdb
