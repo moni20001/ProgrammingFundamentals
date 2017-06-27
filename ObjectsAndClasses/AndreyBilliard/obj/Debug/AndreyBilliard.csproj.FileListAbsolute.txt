@@ -1,0 +1,6 @@
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjectsAndClasses\AndreyBilliard\bin\Debug\AndreyBilliard.exe.config
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjectsAndClasses\AndreyBilliard\bin\Debug\AndreyBilliard.exe
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjectsAndClasses\AndreyBilliard\bin\Debug\AndreyBilliard.pdb
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjectsAndClasses\AndreyBilliard\obj\Debug\AndreyBilliard.csprojResolveAssemblyReference.cache
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjectsAndClasses\AndreyBilliard\obj\Debug\AndreyBilliard.exe
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjectsAndClasses\AndreyBilliard\obj\Debug\AndreyBilliard.pdb

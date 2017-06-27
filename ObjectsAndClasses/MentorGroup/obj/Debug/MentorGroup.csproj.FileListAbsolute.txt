@@ -1,0 +1,6 @@
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjectsAndClasses\MentorGroup\bin\Debug\MentorGroup.exe.config
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjectsAndClasses\MentorGroup\obj\Debug\MentorGroup.csprojResolveAssemblyReference.cache
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjectsAndClasses\MentorGroup\bin\Debug\MentorGroup.exe
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjectsAndClasses\MentorGroup\bin\Debug\MentorGroup.pdb
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjectsAndClasses\MentorGroup\obj\Debug\MentorGroup.exe
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjectsAndClasses\MentorGroup\obj\Debug\MentorGroup.pdb

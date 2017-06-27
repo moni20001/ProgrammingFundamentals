@@ -1,0 +1,7 @@
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjectsAndClasses\BookLibrary\bin\Debug\BookLibrary.exe.config
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjectsAndClasses\BookLibrary\bin\Debug\BookLibrary.exe
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjectsAndClasses\BookLibrary\bin\Debug\BookLibrary.pdb
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjectsAndClasses\BookLibrary\obj\Debug\BookLibrary.exe
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjectsAndClasses\BookLibrary\obj\Debug\BookLibrary.pdb
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjectsAndClasses\BookLibrary\bin\Debug\BookLibrary.exe.CodeAnalysisLog.xml
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjectsAndClasses\BookLibrary\bin\Debug\BookLibrary.exe.lastcodeanalysissucceeded
