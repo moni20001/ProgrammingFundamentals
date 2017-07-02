@@ -1,0 +1,5 @@
+c:\users\moni\documents\visual studio 2015\Projects\ObjFilesExeptions\WriteToFile\bin\Debug\WriteToFile.exe.config
+c:\users\moni\documents\visual studio 2015\Projects\ObjFilesExeptions\WriteToFile\bin\Debug\WriteToFile.exe
+c:\users\moni\documents\visual studio 2015\Projects\ObjFilesExeptions\WriteToFile\bin\Debug\WriteToFile.pdb
+c:\users\moni\documents\visual studio 2015\Projects\ObjFilesExeptions\WriteToFile\obj\Debug\WriteToFile.exe
+c:\users\moni\documents\visual studio 2015\Projects\ObjFilesExeptions\WriteToFile\obj\Debug\WriteToFile.pdb

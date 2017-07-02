@@ -1,0 +1,6 @@
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjFilesExeptions\EXCELlentKnowledge\bin\Debug\EXCELlentKnowledge.exe.config
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjFilesExeptions\EXCELlentKnowledge\bin\Debug\EXCELlentKnowledge.exe
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjFilesExeptions\EXCELlentKnowledge\bin\Debug\EXCELlentKnowledge.pdb
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjFilesExeptions\EXCELlentKnowledge\obj\Debug\EXCELlentKnowledge.csprojResolveAssemblyReference.cache
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjFilesExeptions\EXCELlentKnowledge\obj\Debug\EXCELlentKnowledge.exe
+C:\Users\Moni\documents\visual studio 2015\Projects\ObjFilesExeptions\EXCELlentKnowledge\obj\Debug\EXCELlentKnowledge.pdb
