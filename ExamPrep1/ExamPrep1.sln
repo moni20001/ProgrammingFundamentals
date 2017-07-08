@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinoWalks", "SinoWalks\SinoWalks.csproj", "{1D3E86EE-CFDF-4EA5-830F-231372253E4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniKaraoke", "SoftUniKaraoke\SoftUniKaraoke.csproj", "{D8DA0664-391A-4926-97F2-31AFA33B5160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnduranceRally", "EnduranceRally\EnduranceRally.csproj", "{21198D49-E6EA-473C-8DC3-F508395DE939}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D3E86EE-CFDF-4EA5-830F-231372253E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D3E86EE-CFDF-4EA5-830F-231372253E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D3E86EE-CFDF-4EA5-830F-231372253E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D3E86EE-CFDF-4EA5-830F-231372253E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8DA0664-391A-4926-97F2-31AFA33B5160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8DA0664-391A-4926-97F2-31AFA33B5160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8DA0664-391A-4926-97F2-31AFA33B5160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8DA0664-391A-4926-97F2-31AFA33B5160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21198D49-E6EA-473C-8DC3-F508395DE939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21198D49-E6EA-473C-8DC3-F508395DE939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21198D49-E6EA-473C-8DC3-F508395DE939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21198D49-E6EA-473C-8DC3-F508395DE939}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

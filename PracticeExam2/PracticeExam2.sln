@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftuniCoffee", "SoftuniCoffee\SoftuniCoffee.csproj", "{13D3ACE8-21A8-4C56-BC45-D681B41661E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandInterpreter", "CommandInterpreter\CommandInterpreter.csproj", "{DF8523FE-22D9-4DA5-8C01-5B210B379D2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RageQuit", "RageQuit\RageQuit.csproj", "{DA0CF8CC-5CCC-4B3D-9376-C4F86F4B08CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D3ACE8-21A8-4C56-BC45-D681B41661E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D3ACE8-21A8-4C56-BC45-D681B41661E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D3ACE8-21A8-4C56-BC45-D681B41661E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D3ACE8-21A8-4C56-BC45-D681B41661E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF8523FE-22D9-4DA5-8C01-5B210B379D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF8523FE-22D9-4DA5-8C01-5B210B379D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF8523FE-22D9-4DA5-8C01-5B210B379D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF8523FE-22D9-4DA5-8C01-5B210B379D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0CF8CC-5CCC-4B3D-9376-C4F86F4B08CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0CF8CC-5CCC-4B3D-9376-C4F86F4B08CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0CF8CC-5CCC-4B3D-9376-C4F86F4B08CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0CF8CC-5CCC-4B3D-9376-C4F86F4B08CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
